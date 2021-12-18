@@ -5,7 +5,12 @@
       "ProjectGuid": "7220c46e-7421-4dee-b099-b4edca2e267a",
       "DisplayName": "删除元素的方法（1）",
       "ColorIndex": 0
+    },
+    "67f4980e-9e30-4336-a851-58b0fdfa3258": {
+      "ProjectGuid": "67f4980e-9e30-4336-a851-58b0fdfa3258",
+      "DisplayName": "reserve的使用",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
