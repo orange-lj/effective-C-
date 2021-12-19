@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3337009-f6ad-45a4-beb1-a598df259466": {
+      "ProjectGuid": "d3337009-f6ad-45a4-beb1-a598df259466",
+      "DisplayName": "accumulate",
+      "ColorIndex": 0
+    },
+    "9c65e463-d7c7-47bf-9cf0-9a4e24b5fa72": {
+      "ProjectGuid": "9c65e463-d7c7-47bf-9cf0-9a4e24b5fa72",
+      "DisplayName": "容器的成员函数优先于同名的算法",
+      "ColorIndex": 1
+    },
+    "f557844f-509c-44fa-bfc7-20d55e9e69d0": {
+      "ProjectGuid": "f557844f-509c-44fa-bfc7-20d55e9e69d0",
+      "DisplayName": "慎重选择容器类型",
+      "ColorIndex": 2
+    },
+    "882dccca-cee2-4932-bbb2-dbbb969d6f67": {
+      "ProjectGuid": "882dccca-cee2-4932-bbb2-dbbb969d6f67",
+      "DisplayName": "排序的vector代替关联容器",
+      "ColorIndex": 3
+    },
+    "349a2a24-482d-4401-8f62-2abefe4632d7": {
+      "ProjectGuid": "349a2a24-482d-4401-8f62-2abefe4632d7",
+      "DisplayName": "map的insert与operator[]之间的选择",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

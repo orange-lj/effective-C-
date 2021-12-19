@@ -1,0 +1,7 @@
+﻿  accumulate.cpp
+D:\effective c++\2021-12-19\accumulate\accumulate.cpp(18,17): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  accumulate.vcxproj -> D:\effective c++\2021-12-19\x64\Debug\accumulate.exe
