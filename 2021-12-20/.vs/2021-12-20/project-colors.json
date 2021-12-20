@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea1716d9-c132-457b-ad6b-c59b541ea266": {
+      "ProjectGuid": "ea1716d9-c132-457b-ad6b-c59b541ea266",
+      "DisplayName": "函数对象以及谓词的使用",
+      "ColorIndex": 0
+    },
+    "4f03fc1c-d2db-487e-b077-01e2e87718c2": {
+      "ProjectGuid": "4f03fc1c-d2db-487e-b077-01e2e87718c2",
+      "DisplayName": "多线程问题",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "b65a2256-cc06-4e4a-b80c-7a1d0c97c090": {
+      "ProjectGuid": "b65a2256-cc06-4e4a-b80c-7a1d0c97c090",
+      "DisplayName": "auto类型推导",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
