@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a65d1ef5-f6c0-4390-bbd4-a07ea5ebf4b8": {
+      "ProjectGuid": "a65d1ef5-f6c0-4390-bbd4-a07ea5ebf4b8",
+      "DisplayName": "原子类型及操作",
+      "ColorIndex": 0
+    },
+    "44078e94-ae13-45cc-b1ba-c0ba25fc5262": {
+      "ProjectGuid": "44078e94-ae13-45cc-b1ba-c0ba25fc5262",
+      "DisplayName": "typedef的用法",
+      "ColorIndex": 1
+    },
+    "4d35596b-38a5-48a6-b9b3-475b09dfc13d": {
+      "ProjectGuid": "4d35596b-38a5-48a6-b9b3-475b09dfc13d",
+      "DisplayName": "智能指针",
+      "ColorIndex": 2
+    },
+    "4c2ebbb5-ad53-4f42-8676-b9636b05dea9": {
+      "ProjectGuid": "4c2ebbb5-ad53-4f42-8676-b9636b05dea9",
+      "DisplayName": "类型转换",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
