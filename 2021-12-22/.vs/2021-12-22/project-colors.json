@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c71dac0b-c05a-4556-8f57-a45171a483f4": {
+      "ProjectGuid": "c71dac0b-c05a-4556-8f57-a45171a483f4",
+      "DisplayName": "模板",
+      "ColorIndex": 0
+    },
+    "810ef0f2-550d-4557-b598-11402e0f9c55": {
+      "ProjectGuid": "810ef0f2-550d-4557-b598-11402e0f9c55",
+      "DisplayName": "虚函数表",
+      "ColorIndex": 1
+    },
+    "7a4f1726-2648-4944-ab07-e8f945a37d54": {
+      "ProjectGuid": "7a4f1726-2648-4944-ab07-e8f945a37d54",
+      "DisplayName": "RTTI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
